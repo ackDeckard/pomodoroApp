@@ -5,9 +5,9 @@ Features
 
 The app has the following features:
 
-    A timer that counts down for 25 minutes during the work session.
-    A timer that counts down for 5 minutes during the short break session.
-    A timer that counts down for 15 minutes during the long break session.
+    A timer that counts down for 25 (or custom) minutes during the work session.
+    A timer that counts down for 5 (or custom) minutes during the short break session.
+    A timer that counts down for 15 (or custom) minutes during the long break session.
     Users can start, pause, or reset the timer.
     Users can toggle between work, short break, and long break sessions.
     The app displays a progress bar that indicates how much time is remaining in the current session.
