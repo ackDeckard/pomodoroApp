@@ -22,3 +22,5 @@ This Pomodoro app is built using the following technologies:
     Next JS 13
     react-countdown
     frame-motion
+
+That's one of the advanced challenges proposed by FrontEnd Mentor 
