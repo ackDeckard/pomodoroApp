@@ -1,5 +1,7 @@
 Pomodoro App using React, Tailwind, Next JS 13, react-countdown, and frame-motion
 
+LIVE SITE: https://pomodoro.ackdeckard.dev
+
 This is a simple Pomodoro app built using React, Tailwind, Next JS 13, react-countdown, and frame-motion. The app allows users to track their work sessions and breaks using the Pomodoro technique.
 Features
 
