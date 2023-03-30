@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glass {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(46, 50, 90, 0.4);
+}
+
+.candy-mesh {
+  background-color: #2e325a;
+  background-image: radial-gradient(
+      at 99% 6%,
+      hsla(235, 35%, 18%, 1) 0px,
+      transparent 10%
+    ),
+    radial-gradient(at 55% 88%, hsla(201, 95%, 43%, 1) 0px, transparent 50%),
+    radial-gradient(at 53% 27%, hsla(182, 91%, 71%, 1) 0px, transparent 50%),
+    radial-gradient(at 89% 89%, hsla(199, 86%, 67%, 1) 0px, transparent 50%),
+    radial-gradient(at 35% 44%, hsla(127, 24%, 59%, 1) 0px, transparent 50%);
+}
