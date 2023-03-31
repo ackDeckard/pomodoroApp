@@ -27,6 +27,7 @@ This Pomodoro app is built using the following technologies:
 
 That's one of the advanced challenges proposed by FrontEnd Mentor 
 
-Known bugs: 
+Known bugs
+
     Stopping and restarting the timer desyncs the animation 
     Opening the app in Firefox and Edge => weird colors 
